@@ -1,7 +1,5 @@
 #include <iostream>
 
-
-
 // fibonacci sequence
 // written in recurrent form
 // Its description is clear but poor formance due to the multiple function calls.
